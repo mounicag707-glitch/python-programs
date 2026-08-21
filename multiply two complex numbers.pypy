@@ -1,0 +1,8 @@
+a=int(iinput("enter real part of first complex number:"))
+b=int(input("enter imaginary part of first complex number:"))
+c=int(input("enter real part of second complex number:"))
+d=int(input("enter imaginary part of second complex numbe:"))
+c1=complex(a,b)
+c2=complex(c,d)
+product=c1*c2
+print("product=",product)
