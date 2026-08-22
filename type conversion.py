@@ -1,0 +1,5 @@
+a=int(input("enter a value:"))
+b=int(a)
+c=float(a)
+print("integer value=",b)
+print("float value=",c)
